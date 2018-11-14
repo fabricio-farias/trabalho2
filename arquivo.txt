@@ -1,0 +1,7 @@
+[Name] -------> arquivo.txt 
+[Type] -------> text/plain 
+[Size] -------> 2135555 
+[Created] ----> 2018 Nov Wed 10:38:47 
+[Modified] ---> 2018 Nov Wed 16:00:53 
+[Accessed] ---> 2018 Nov Wed 14:43:34 
+[Author] -----> fabricio 
